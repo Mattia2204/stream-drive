@@ -1,0 +1,13 @@
+{
+  "name": "stream-drive",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "axios": "^0.26.1",
+    "cors": "^2.8.5"
+  }
+}
